@@ -1,6 +1,8 @@
-### Hi there 👋
+# Hi there, my name is Kerdon 👋
+### I'm a student of the Brooklyn STEAM Center, a technology focused program school. I have basic knowledge of Python and Javascript, and im learning HTML and CSS!
+### I am pursuing a education and subsequent career in computer engineering, open to advice regarding that career path!
 
-Test test testo
+<img src="IMG_5240.jpg">
 <!--
 **Candog85/Candog85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

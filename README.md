@@ -11,6 +11,10 @@
     <img src="https://cdn-icons-png.flaticon.com/512/6614/6614677.png" width="75" height="75">
 </a>
 
+</div>
+
+<div align="center">
+
 <img src="IMG_5240.jpg" width="400">
 
 </div>

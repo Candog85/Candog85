@@ -1,8 +1,18 @@
 # Hi there, my name is Kerdon 👋
-### I'm a student of the Brooklyn STEAM Center, a technology focused program school. I have basic knowledge of Python and Javascript, and im learning HTML and CSS!
+### I'm a student of the Brooklyn STEAM Center, a technology focused program school. I have basic knowledge of Python and Javascript, and im currently learning HTML and CSS!
 ### I am pursuing a education and subsequent career in computer engineering, open to advice regarding that career path!
+<center>
 
-<img src="IMG_5240.jpg">
+<a href="https://www.linkedin.com/in/kerdon-chapman-614884281/"> 
+    <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" width="75" height="75"> 
+</a><a href="https://replit.com/@KerdonChapman"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/New_Replit_Logo.svg/2048px-New_Replit_Logo.svg.png" width="75"> 
+</a><a href="https://drive.google.com/file/d/1D6VUqpQPbTiR68BUN4Gj-csg2CWDNRUw/view?usp=sharing">
+    <img src="https://cdn-icons-png.flaticon.com/512/6614/6614677.png" width="75" height="75">
+</a>
+
+<img src="IMG_5240.jpg" width="400">
+</center>
 <!--
 **Candog85/Candog85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,6 +1,6 @@
 # Hi there, my name is Kerdon 👋
-### I'm a student of the Brooklyn STEAM Center, a technology focused program school. I have basic knowledge of Python and Javascript, and im currently learning HTML and CSS!
-### I am pursuing a education and subsequent career in computer engineering, open to advice regarding that career path!
+### I'm a student of the SUNY University at Buffalo, pursuing a Bachelor's in Computer Engineering. I an proficient in HTML & CSS, Python, and MySQL.
+### Looking to expand my knowledge in the world of web development and computer systems especially
 <div align="center">
 
 <a target="_blank" href="https://www.linkedin.com/in/kerdon-chapman-614884281/">

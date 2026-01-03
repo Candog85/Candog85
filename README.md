@@ -7,8 +7,8 @@
     <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" width="75" height="75">
 </a><a target="_blank" href="https://replit.com/@KerdonChapman"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/New_Replit_Logo.svg/2048px-New_Replit_Logo.svg.png" width="75"> 
-</a><a target="_blank" href="https://drive.google.com/file/d/1D6VUqpQPbTiR68BUN4Gj-csg2CWDNRUw/view?usp=sharing">
-    <img src="https://cdn-icons-png.flaticon.com/512/6614/6614677.png" width="75" height="75">
+</a><a target="_blank" href="https://linktr.ee/kerdonchapman85">
+    <img src="https://static.vecteezy.com/system/resources/previews/068/764/227/non_2x/linktree-logo-icon-linktree-app-transparent-background-free-png.png" width="75" height="75">
 </a>
 
 </div>
